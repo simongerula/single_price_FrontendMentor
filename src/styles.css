@@ -65,14 +65,14 @@ body {
     color: hsl(204, 43%, 93%);
 }
 #price-mnth {
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(255, 255, 255);
     margin-right: 5%;
     line-height: 200%;
 }
 #singup {
     width: 100%;
-    margin-top: 12%;
+    margin-top: 8%;
     height: 25%;
     border-radius: 8px;
     background-color: rgb(154, 205, 50);
